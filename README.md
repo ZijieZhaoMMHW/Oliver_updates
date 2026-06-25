@@ -30,6 +30,3 @@ The spreadsheet includes the following information for each ecoregion:
 - Color-coded trend categories for the trend columns
 
 
-## Citation
-
-If you use this repository, please cite Oliver et al. (2018) and the related updated analysis associated with this submission.
