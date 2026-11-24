@@ -8,7 +8,7 @@ This repository contains the code and supporting data used to update the analysi
 
 | File | Description |
 | --- | --- |
-| `Figure1-3.m` | Generates the main figures included in the submission. |
+| `mhwdetectf.m` | Detect MHWs and estimate MHW metrics|
 | `MHW_reconstruct.m` | Reconstructs MHWs using the monthly proxy and a generalized linear model (GLM). |
 
 ### Data
