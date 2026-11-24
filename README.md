@@ -9,6 +9,8 @@ This repository contains the code and supporting data used to update the analysi
 | File | Description |
 | --- | --- |
 | `mhwdetectf.m` | Detect MHWs and estimate MHW metrics|
+| `submhwdetectf.sh` | Submit jobs to Gadi|
+| `mhwdetectfanalysis.sh` | Parallel Computation|
 | `MHW_reconstruct.m` | Reconstructs MHWs using the monthly proxy and a generalized linear model (GLM). |
 
 ### Data
