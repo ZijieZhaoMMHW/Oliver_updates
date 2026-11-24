@@ -15,7 +15,8 @@ This repository contains the code and supporting data used to update the analysi
 
 | File | Description |
 | --- | --- |
-| `MHW_ice_slopes_colored.xlsx` | Contains MHW trend data for each ecoregion. |
+| `MHW_OISST_206_ecoregion_trends.xlsx` | Contains MHW trend data for each ecoregion in OISST. |
+| `MHW_CoralTemp_206_ecoregion_trends.xlsx` | Contains MHW trend data for each ecoregion in CoralTemp. |
 
 The spreadsheet includes the following information for each ecoregion:
 
